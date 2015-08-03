@@ -51,6 +51,6 @@ def write_time():
     sublime.status_message(time_manage(i))
 
 def time_manage(time_number):
-    time_str='time:'+str(time_number/60)+'min '+str(time_number%60)+'s'
+    time_str='time:'+str(int(time_number/60))+'min '+str(time_number%60)+'s'
     return time_str
           
