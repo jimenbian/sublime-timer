@@ -2,7 +2,7 @@ sublime-timer
 =============
 
 This is the plugin which achieve the function of timer .  
-Test under version 2 of sublime .  
+Test under version 3 of sublime .  
 You can see the effect picture below .  
 ![sublime-timer](screenshot.png)
 
